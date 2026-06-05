@@ -1,4 +1,4 @@
-# Hi, I'm Li Wentao
+# Hi, I'm littlepeachs
 
 I work at the intersection of artificial intelligence, scientific discovery, and materials research. My current interests include molecular and polymer generation, AI-assisted materials design, scientific data representation, and agentic workflows for reproducible research.
 
