@@ -14,16 +14,14 @@ I enjoy building research code that connects machine learning methods with real 
 
 ## Selected Projects
 
-- [NaturePanelForge](https://github.com/littlepeachs/NaturePanelForge) - an agentic workflow for turning scientific figure panels into executable plotting-code reconstruction tasks.
-- [CondMolGen](https://github.com/littlepeachs/CondMolGen) - conditional molecular generation research code.
-- [ICL-Crys](https://github.com/littlepeachs/ICL-Crys) - in-context learning experiments for crystal-related tasks.
-- [DecT_Mat_NER](https://github.com/littlepeachs/DecT_Mat_NER) - named entity recognition for materials-science text.
+- [SurFF](https://github.com/Long1Corn/SurFF)
+- [TSFF](https://github.com/littlepeachs/TSFF)
+- [CatAI](https://github.com/littlepeachs/CatAI)
+- [PolyRL](https://github.com/Knitua/PolyRL)
 
 ## Links
 
 - [Google Scholar](https://scholar.google.com.hk/citations?user=OUJwGdcAAAAJ&hl=zh-CN)
-- [Advisor's Google Scholar](https://scholar.google.com.hk/citations?user=RAGNNYUAAAAJ&hl=zh-CN)
-- [GitHub](https://github.com/littlepeachs)
 
 ## Contact
 
